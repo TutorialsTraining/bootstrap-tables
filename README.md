@@ -1,2 +1,2 @@
 # bootstrap-tables
-A beautiful bootstrap table
+A beautiful bootstrap table.
